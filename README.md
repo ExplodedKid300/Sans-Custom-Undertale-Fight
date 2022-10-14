@@ -35,5 +35,5 @@ Orange bullets harm you when you stay still through them
 </br>
 Credit to Toby Fox, the creator of Undertale
 </br>
-</hr>
+</br>
 You can go to my origional project <a href="https://scratch.mit.edu/projects/723860148/">here</a>
