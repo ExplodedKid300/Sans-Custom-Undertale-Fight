@@ -1,12 +1,16 @@
 # ExplodedKid300.github.io
 
 Instructions
+
 Arrows - Move/Select
 
 Z - Confirm
 
 
+
 Notes and Credits
+
+!PROJECT IS A DEMO!
 
 GENOCIDE ROUTE
 
