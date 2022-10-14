@@ -1,19 +1,18 @@
 # ExplodedKid300.github.io
 </br>
 Instructions
-
+</br>
 Arrows - Move/Select
-
+</br>
 Z - Confirm
-
-
-
-Notes and Credits
-
+</br>
+</br>
+Notes and Credits:
+</br>
 !PROJECT IS A DEMO!
-
+</br>
 GENOCIDE ROUTE
-
+</br>
 (Pacifist Ending Possible)
 
 Flowey told Sans that it's not Chara that made Frisk take those actions on this run... but someone much worse. So, because he's tired of all the resets just to watch his brother die repeatedly, Sans takes matters into his own hands. He has a few new tricks up his sleeve.
